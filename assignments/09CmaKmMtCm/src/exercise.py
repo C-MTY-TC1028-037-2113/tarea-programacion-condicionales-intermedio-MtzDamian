@@ -1,5 +1,6 @@
 def main():
     # Escribe tu código abajo de esta línea
+    #Omar Damián Mtz.
     c = int(input("Introduce los cm: "))
     if c<100:
         print(c,"cm")

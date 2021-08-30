@@ -2,6 +2,7 @@ import math
 
 def main():
     # Escribe tu código abajo de esta línea
+    #Omar Damián Mtz.
     r = float(input("Introduce el radio: ")) #Radio
     x1 = float(input("Introduce x1: ")) # Coordenada X1 del centro de la circunferencia
     y1 = float(input("Introduce y1: ")) # Coordenada Y1 del centro de la circunferencia

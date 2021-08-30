@@ -1,5 +1,6 @@
 def main():
     #escribe tu código abajo de esta línea
+    #Omar Damian Mtz.
     y = int(input("Año: "))
     m = int(input("Mes: "))
     d = int(input("Día: "))
